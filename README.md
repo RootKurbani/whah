@@ -5,6 +5,7 @@ WHAH (WHOIS AT HOME), birkaç standart komutu Regex ile düzenleyip daha okunur 
 <li> HTTP HEAD </li>
 <li> Mailserver </li>
 <li> Nameserver </li>
+<li> Cname </li>
 <li> IPv4 </li>
 <br>
 
@@ -34,6 +35,7 @@ WHAH (WHOIS AT HOME) is a Python script that takes a couple of standard commands
 <li> HTTP HEAD </li>
 <li> Mailserver </li>
 <li> Nameserver </li>
+<li> Cname </li>
 <li> IPv4 </li>
 <br>
 
